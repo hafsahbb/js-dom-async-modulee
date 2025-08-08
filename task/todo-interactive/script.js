@@ -1,4 +1,4 @@
-updated for pull Request
+ //updated for pull Request
 document.addEventListener("DOMContentLoaded", function () {
     const ListItems = document.querySelectorAll("todo-list li");
     ListItems.forEach(function (item) {
